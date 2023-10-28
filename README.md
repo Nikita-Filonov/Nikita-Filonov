@@ -2,5 +2,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nikita-Filonov&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikita-Filonov&layout=compact&langs_count=6&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikita-Filonov&layout=compact&langs_count=5&card_width=320" />
 </a>
