@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita-Filonov)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikita Filonov GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita-Filonov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
